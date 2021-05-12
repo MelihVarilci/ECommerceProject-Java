@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/ECommerceProject/Main.java=UTF-8
+encoding//src/ECommerceProject/bussiness/concretes/AuthManager.java=UTF-8
+encoding//src/ECommerceProject/bussiness/concretes/UserManager.java=UTF-8
+encoding//src/ECommerceProject/core/verifications/EmailVerificationManager.java=UTF-8
+encoding//src/ECommerceProject/core/verifications/SmsVerificationManager.java=UTF-8
+encoding//src/ECommerceProject/otherAuths/GoogleAuthManager.java=UTF-8
